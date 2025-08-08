@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **RAG**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **DeepLearning**
 
 - 💬 Ask me about **Python,MachineLearning**
 
