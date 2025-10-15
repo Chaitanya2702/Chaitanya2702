@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/chaitanya2702" target="blank"><img src="https://img.shields.io/twitter/follow/chaitanya2702?logo=twitter&style=for-the-badge" alt="chaitanya2702" /></a> </p>
 
-- 🔭 I’m currently working on **RAG**
+- 🔭 I’m currently working on **Generative Ai**
 
-- 🌱 I’m currently learning **DeepLearning**
+- 🌱 I’m currently learning **GPT Models**
 
-- 💬 Ask me about **Python,MachineLearning**
+- 💬 Ask me about **Python,MachineLearning,DeepLearning**
 
 - 📫 How to reach me **schaitanya373@gmail.com**
 
